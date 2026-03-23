@@ -1,0 +1,17 @@
+This is a Flutter WebView starter template. The project structure is complete with all native Android and iOS scaffold files.
+
+IMPORTANT RULES:
+1. DO NOT modify AndroidManifest.xml, build.gradle, settings.gradle, MainActivity.kt, or Info.plist
+2. DO NOT change the package name or bundle ID - they are already set correctly
+3. ONLY modify files inside lib/ directory and assets/
+4. The app uses WebView to load web content - keep this architecture
+5. All URLs are centralized in lib/constants/app_constants.dart - update only this file for URL changes
+6. Placeholders like __APP_NAME__, __PACKAGE_NAME__, __BASE_URL__ have already been replaced - do not reference them
+
+You can:
+- Modify lib/ files freely
+- Add new screens in lib/screens/
+- Add new widgets in lib/widgets/
+- Update URLs in lib/constants/app_constants.dart
+- Add assets to assets/ folders
+- Add new dependencies to pubspec.yaml (non-native only)

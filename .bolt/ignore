@@ -1,0 +1,9 @@
+android/app/src/main/kotlin/__PACKAGE_PATH__/MainActivity.kt
+android/app/src/main/AndroidManifest.xml
+android/app/build.gradle
+android/build.gradle
+android/settings.gradle
+android/gradle.properties
+android/gradle/wrapper/gradle-wrapper.properties
+ios/Runner/Info.plist
+pubspec.yaml
